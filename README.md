@@ -31,7 +31,7 @@ Installation is very simple. Follow these steps to install SteamOS Ubuntu:
 `sudo apt install git -y`
 
 2. Clone or download this repository:    
-`git clone https://github.com/ShadowApex/steamos-ubuntu.git`
+`git clone https://github.com/ribhutheincompetent/steamos-ubuntu.git`
 
 3. Run the installation script:    
 `cd steamos-ubuntu`    
