@@ -4,6 +4,8 @@
 
 SteamOS Ubuntu is a set of scripts to create an Ubuntu-based Steam machine.
 
+WARNING: It only installs in 18.04 based ubuntu devices, since it lacks cross-arch libraries of 20.04, finding a temp solution now, then switch to something permanent.
+
 It will do the following:
 
 * Create the `steam` user account if it does not exist.
